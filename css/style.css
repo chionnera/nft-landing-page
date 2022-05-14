@@ -8,8 +8,8 @@
   --font-primary: 'Poppins', sans-serif;
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
-  /*--bg-color: #105257;*/
-  --bg-color: linear-gradient(#3cbd9c,#085a73);
+  --bg-color: #105257;
+  /*--bg-color: linear-gradient(#3cbd9c,#085a73);*/
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #ccaf46;
@@ -23,7 +23,8 @@
 }
 
 body {
-  background-color: var(--bg-color);
+  /*background-color: var(--bg-color);*/
+  background-color: linear-gradient(#3cbd9c,#085a73);
   display: flex;
   flex-flow: column;
   height: 100vh;
