@@ -61,6 +61,13 @@ header .container {
 
 .menu2 {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  object-fit: contain
+}
+
+.menu3 {
+  display: flex;
   justify-content: stretch;
   align-items: center;
   object-fit: contain
