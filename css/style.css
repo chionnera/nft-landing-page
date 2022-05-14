@@ -68,7 +68,8 @@ header .container {
 
 .menu3 {
   display: flex;
-  justify-content: stretch;
+  justify-content: center; 
+  justify-content: space-between;
   align-items: center;
   object-fit: contain
 }
