@@ -56,6 +56,11 @@ header .container {
   align-items: center;
 }
 
+.menu2 {
+  display: flex;
+  align-items: center;
+}
+
 /* BUTTONS */
 
 .btn {
