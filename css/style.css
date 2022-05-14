@@ -23,8 +23,8 @@
 }
 
 body {
-  /*background-color: var(--bg-color);*/
-  background-color: linear-gradient(#3cbd9c,#085a73);
+  background-color: var(--bg-color);
+  background-image: linear-gradient(#3cbd9c,#085a73);
   display: flex;
   flex-flow: column;
   height: 100vh;
