@@ -58,6 +58,7 @@ header .container {
 
 .menu2 {
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -69,7 +70,7 @@ header .container {
   background: var(--btn-bg-color);
   color: var(--accent-color);
   font-family: var(--font-secondary);
-  font-style: italic;
+  font-style: normal;
   font-weight: bold;
   font-size: 1rem;
   text-transform: capitalize;
