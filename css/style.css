@@ -12,7 +12,7 @@
   /*--bg-color: linear-gradient(#3cbd9c,#085a73);*/
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #d027b4;
+  --accent-color: #c34f90;
   --header-shadow: #000 0px 0px 5px;
 }
 
@@ -62,6 +62,7 @@ header .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  style='height: 100%; width: 100%; object-fit: contain
 }
 
 /* BUTTONS */
