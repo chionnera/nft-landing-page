@@ -61,7 +61,7 @@ header .container {
 
 .menu2 {
   display: flex;
-  justify-content: space-between;
+  justify-content: stretch;
   align-items: center;
   object-fit: contain
 }
