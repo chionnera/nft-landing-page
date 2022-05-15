@@ -71,6 +71,12 @@ header .container {
   text-align: center;
 }
 
+.menu4 {
+  display: flex;
+  justify-content: space-between;
+  object-fit: contain
+}
+
 /* BUTTONS */
 
 .btn {
