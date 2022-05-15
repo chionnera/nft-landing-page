@@ -73,7 +73,7 @@ header .container {
 
 .menu4 {
   display: flex;
-  justify-content: space-between;
+  text-align: center; 
   object-fit: contain
 }
 
